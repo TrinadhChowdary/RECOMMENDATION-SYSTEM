@@ -18,4 +18,4 @@ This task focuses on developing a Recommendation System that suggests relevant p
 
 #OUTPUT
 
-
+<img width="881" height="407" alt="Image" src="https://github.com/user-attachments/assets/4156859c-d33a-4cee-a37d-1d5fb93278c9" />
